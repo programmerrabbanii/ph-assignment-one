@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+  font-family: "Azeret Mono", monospace;
+  
+}
+.bannar{
+    background-image: url(./assets/Hero-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.bannar-inner{
+    text-align: center;
+}
+.bannar-inner button{
+    background-color: black;
+    color: white;
+    padding: 12px 22px;
+    text-transform: capitalize;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.bannar-inner h2{
+    font-size: 44px;
+}
+.bannar-inner p{
+    margin-top: 13px;
+    line-height: 2;
+}
+.bannar-inner img{
+    margin-top: 5px;
+}
+/* bannar section end */
+/* development section start */
