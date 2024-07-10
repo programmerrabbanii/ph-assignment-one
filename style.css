@@ -36,3 +36,47 @@ body{
 }
 /* bannar section end */
 /* development section start */
+.devmnt{
+    margin-top: 60px;
+   
+}
+.development{
+    
+    background-color: #eef1f6 ;
+    width: 900px;
+    margin: auto;
+    padding: 50px;
+    border-radius: 10px;
+}
+.development-title h2 {
+    font-size: 44px;
+    line-height: 2;
+    
+}
+.development-title{
+    text-align: center;
+
+}
+.development-mid {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 35px;
+    padding: 20px;
+    
+}
+.development-content button{
+    cursor: pointer;
+    padding: 8px 20px;
+    margin-top: 9px;
+    font-size: 18px;
+    background-color: white;
+
+}
+.development-content h2{
+    margin-bottom: 10px;
+}
+.development-content p{
+    margin-bottom: 10px;
+}
