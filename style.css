@@ -179,4 +179,14 @@ body{
 }
 /* support section end */
 /* fotter section start */
+.footerr{
+    display: flex;
+    justify-content: space-around;
+    padding: 22px;
+    background-color: gainsboro;
+    margin-top: 33px;
+
+}
+.footer-left{}
+.footer-right{}
 
